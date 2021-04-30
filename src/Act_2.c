@@ -1,4 +1,4 @@
-#include "Act_3.h"
+#include "Act_2.h"
 
 void IntiADC(){
     ADMUX=(1<<REFS0);
