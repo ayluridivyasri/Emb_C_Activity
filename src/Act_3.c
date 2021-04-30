@@ -19,7 +19,7 @@ void Pwm(uint16_t temp1){
         }
         else{
                 OCR1A=0;
-                _delay_ms(100);// delay fuction
+                _delay_ms(100);// delay
         }
 
 }
