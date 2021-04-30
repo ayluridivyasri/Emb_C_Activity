@@ -1,6 +1,6 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# LED Blinking 
+# In action
 
 
 #### CI and Code Quality
