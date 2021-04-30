@@ -14,7 +14,6 @@
 #include <avr/io.h>
 
 void timer();
-
 void Pwm(uint16_t temp1);
 
 #endif//ACT_3_H_INCLUDED
