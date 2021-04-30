@@ -14,7 +14,7 @@ char temp;
 USARTInit(103);
     while(1){
         if(SENSOR_ON){
-            if(HEATER_ON)){
+            if(HEATER_ON){
                 LED_ON;
                 temp1=ReadADC(1);
                 temp = Pwm(temp1);
