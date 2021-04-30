@@ -1,4 +1,4 @@
-PROJ_NAME = HeatControl
+PROJ_NAME = Act
 
 BUILD_DIR = Build
 
