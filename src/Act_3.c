@@ -7,7 +7,7 @@ TCCR1B |=(1<<WGM12)|(1<<CS11)|(1<<CS10);
 DDRB|=(1<<PB1);
 }
 void Pwm(uint16_t temp1){ //Writing conditions
-        if(temp1>=0 && temp1<=200){
+        if(temp1>0 && temp1<=200){
             OCR1A=205;//20% of duty cycle
              _delay_ms(100);
         }
