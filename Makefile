@@ -3,8 +3,8 @@ PROJ_NAME = HeatControl
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
-src/user_utils.c
+MAIN = project_main.C
+SRC = src/Acr_1 src/Act_2 src/Act_3 src/Act_4.c $(MAIN)
 
 # All header file paths
 INC = -I inc
