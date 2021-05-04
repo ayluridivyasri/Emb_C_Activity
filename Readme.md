@@ -9,4 +9,3 @@
 #### CI and Code Quality
 |Build|Cppcheck|
 |:--:|:--:|
-|https://github.com/ayluridivyasri/Emb_C_Activity/actions/workflows/CodeQuality.yml/badge.svg|
